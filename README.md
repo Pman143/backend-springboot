@@ -12,7 +12,3 @@ Environment setup instructions:
 
 Alternatively you can run application using your desired IDE.
 1. Please ensure that the lombok plugins are installed on your IDE.
-
-
-I have also deployed the application on AWS EC2 instance:
--> The url to access the swagger document is http://ec2-13-245-21-79.af-south-1.compute.amazonaws.com:8080/swagger-ui.html#/
